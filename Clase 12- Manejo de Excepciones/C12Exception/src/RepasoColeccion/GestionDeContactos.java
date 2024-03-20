@@ -33,7 +33,7 @@ public class GestionDeContactos {
 
                 throw new ColeccionException("No se encontro el nombre buscado");
                 //System.out.println("  Contacto no encontrado: "+nombreBuscado);
-            
+
         }
 
 
